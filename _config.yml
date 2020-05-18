@@ -14,9 +14,9 @@ author: Max
 navbar-links:
   About Me: "aboutme"
   Exercises:
-    - MakeoverMonday: "makeovermonday"
-    - Storytelling with data: "swd"
-    - Others: "others"
+    - /#Makeover Monday: "https://maxthamt.github.io/tags#test"
+    - /#SWD: "https://maxthamt.github.io/tags#test"
+    - Others: "https://maxthamt.github.io/tags#test"
   Home: "blog"
 
 # --- Logo --- #
