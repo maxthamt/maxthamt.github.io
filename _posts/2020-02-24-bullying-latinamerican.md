@@ -12,5 +12,3 @@ I tried to do the chart using D3 first, and I managed to create the static versi
 After a few iterations, I got to this version:
 
 <div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-ny8ost4q1 one column_column"><div class="column_attr clearfix" style=""><center><iframe src="https://public.tableau.com/views/BullyingLat/Bullying?:showVizHome=no&amp;:embed=true" width="800" height="940" frameborder="0"></iframe></center></div></div></div>
-
-The interactive viz is here: https://tabsoft.co/37Tlaqr 
