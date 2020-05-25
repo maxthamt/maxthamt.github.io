@@ -10,8 +10,6 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 **Here is some bold text**
 
-<div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-ny8ost4q1 one column_column"><div class="column_attr clearfix" style=""><center><iframe src="https://public.tableau.com/views/CTX_Graf1/Paisenregin?:showVizHome=no&amp;:embed=true" width="650" height="927" frameborder="0"></iframe></center></div></div></div>
-
 ## Here is a secondary heading
 
 Here's a useless table:
