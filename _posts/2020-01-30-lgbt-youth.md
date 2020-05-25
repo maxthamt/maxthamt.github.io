@@ -1,8 +1,8 @@
 ---
 layout: post
 title: LGBT youth and their experiences of discrimination
-subtitle: #SWDChallenge
-tags: [#SWDChallenge]
+subtitle: SWDChallenge
+tags: [SWDChallenge]
 comments: true
 ---
 
@@ -12,5 +12,5 @@ The main point to convey visually is that for straight and cisgender youth the a
 
 The analysis is part of current research I am carrying on, where I study the experience of violence and discrimination that LGBT youth suffers, and how that relates to several indicators of subjective wellbeing.
 
-![Viz](https://github.com/maxthamt/maxthamt.github.io/blob/master/assets/img/SWD-small-multiples-challenge.png){: .mx-auto.d-block :}
+![Viz](/assets/img/SWD-small-multiples-challenge.png){: .mx-auto.d-block :}
 
