@@ -2,7 +2,7 @@
 layout: post
 title: Bullying in Latin American schools
 subtitle: Bar chart based in PISA data, #SWDChallenge
-tags: [books, test]
+tags: SWDChallenge
 ---
 
 My bar chart for the February #SWDChallange addresses the topic of bullying in Latin American schools using PISA 2018 data. The idea was to make it interactive, so the user could explore two layers of information: the frequency of the reported bullying (at least once a month vs at least once a year), and the differences across countries.
