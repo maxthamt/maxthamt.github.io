@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a social science researcher and I have been studying and exploring the data visualization field for the last year or so. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I mainly viz for work to communicate research insights about educational topics & youth studies. I also do viz for personal research projects and to learn design principles & techniques. 
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+This is my [Tableau Public profile](https://public.tableau.com/profile/maximiliano4575#!/) and this is my [Twitter](https://twitter.com/maxthamt)
