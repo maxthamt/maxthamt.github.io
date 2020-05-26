@@ -13,10 +13,6 @@ author: Max
 
 navbar-links:
   About Me: "aboutme"
-  Exercises:
-    - /#Makeover Monday: "https://maxthamt.github.io/tags#test"
-    - /#SWD: "https://maxthamt.github.io/tags#test"
-    - Others: "https://maxthamt.github.io/tags#test"
   Home: "blog"
 
 # --- Logo --- #
