@@ -64,4 +64,4 @@ After several tweaks of aligning elements, adjusting the size, etc. I got to thi
 
 Any feedback is welcome at [@maxthamt](https://twitter.com/maxthamt)!
 
-<div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-ny8ost4q1 one column_column"><div class="column_attr clearfix" style=""><center><iframe src="https://public.tableau.com/profile/maximiliano4575#!/vizhome/pride/lgbt-movies?:showVizHome=no&amp;:embed=true" width="1093" height="819" frameborder="0"></iframe></center></div></div></div>
+<div class="mcb-wrap-inner"><div class="column mcb-column mcb-item-ny8ost4q1 one column_column"><div class="column_attr clearfix" style=""><center><iframe src="https://public.tableau.com/views/pride/lgbt-movies?:showVizHome=no&amp;:embed=true" width="1093" height="819" frameborder="0"></iframe></center></div></div></div>
