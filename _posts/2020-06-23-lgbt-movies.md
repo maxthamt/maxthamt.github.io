@@ -50,7 +50,7 @@ I imagine there must be more elegant ways to do a bee swarm plot, but I followed
 
 So with a combination of tools/formats ([RawGraphs](https://rawgraphs.io/) & SVGs) I extracted the X & Y coordinates of the bee swarm plot and added them to my LGBT movie data frame. With that data, I was able to make a first version of the chart in Tableau, and I started to refine the design from that.
 
-![Viz](/assets/img/first-iteration.png){: .mx-auto.d-block :}
+![Viz](/assets/img/viz.png){: .mx-auto.d-block :}
 
 For the interactive layer, I wanted to allow the user to get more in-depth information about each point/movie. So I added a tooltip that included the title, year, rank, and score of the movie. 
 
